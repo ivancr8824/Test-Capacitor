@@ -9,11 +9,8 @@ const config: CapacitorConfig = {
       appId: 'bdba1109',
       channel: 'testing-destination',
       autoUpdateMethod: 'background',
-      maxVersions: 2
+      maxVersions: 3
     }
-  },
-  server: {
-    androidScheme: 'https'
   }
 };
 
