@@ -6,7 +6,7 @@ const config: CapacitorConfig = {
   webDir: 'www',
   plugins: {
     LiveUpdates: {
-      appId: 'bdba1109',
+      appId: '5caf6128',
       channel: 'testing-destination',
       autoUpdateMethod: 'background',
       maxVersions: 3
